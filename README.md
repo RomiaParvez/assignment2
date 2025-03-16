@@ -13,7 +13,7 @@
    ```sh
    python even_odd.py
 
-   # Task 2: Sum of Integers from 1 to 50 Using a Loop
+ Task 2: Sum of Integers from 1 to 50 Using a Loop
 
 ## Problem Statement
 1. Uses a for loop to iterate over numbers from 1 to 50.
